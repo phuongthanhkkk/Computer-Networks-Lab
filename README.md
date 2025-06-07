@@ -5,7 +5,7 @@ These lab exercises were conducted as part of the *Computer Networks* course. Ea
 ---
 
 ## Table of Contents
-- [Lab 0 - Getting Started with Wireshark](#lab-0---getting-started-with-wireshark)
+- [Lab 1 - Getting Started with Wireshark](#lab-1---getting-started-with-wireshark)
 - [Lab 2 - HTTP Protocol](#lab-2---http-protocol)
 - [Lab 3 - DNS Protocol](#lab-3---dns-protocol)
 - [Lab 4 - IP Protocol](#lab-4---ip-protocol)
@@ -18,8 +18,8 @@ These lab exercises were conducted as part of the *Computer Networks* course. Ea
 
 ---
 
-## Lab 0 - Getting Started with Wireshark
-**File:** `LAB01_Getting Started_Wireshark.pdf`  
+## Lab 1 - Getting Started with Wireshark
+**File:** [LAB01_Getting Started_Wireshark.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB01_Getting%20Started_Wireshark.pdf)
 This introductory lab familiarizes students with the Wireshark tool, a network protocol analyzer used to capture and examine packets in real time.
 
 **Topics Covered:**
@@ -32,7 +32,7 @@ This introductory lab familiarizes students with the Wireshark tool, a network p
 ---
 
 ## Lab 2 - HTTP Protocol
-**File:** `LAB02_HTTP.pdf`  
+**File:** [LAB02_HTTP.pdf][(https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB01_Getting%20Started_Wireshark.pdf)](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB02_HTTP.pdf)
 This lab explores the Hypertext Transfer Protocol (HTTP), focusing on request/response interactions, message formats, and web object retrieval.
 
 **Topics Covered:**
