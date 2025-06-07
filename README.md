@@ -20,6 +20,7 @@ These lab exercises were conducted as part of the *Computer Networks* course. Ea
 
 ## Lab 1 - Getting Started with Wireshark
 **File:** [LAB01_Getting Started_Wireshark.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB01_Getting%20Started_Wireshark.pdf)
+
 This introductory lab familiarizes students with the Wireshark tool, a network protocol analyzer used to capture and examine packets in real time.
 
 **Topics Covered:**
@@ -32,7 +33,8 @@ This introductory lab familiarizes students with the Wireshark tool, a network p
 ---
 
 ## Lab 2 - HTTP Protocol
-**File:** [LAB02_HTTP.pdf][(https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB01_Getting%20Started_Wireshark.pdf)](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB02_HTTP.pdf)
+**File:** [LAB02_HTTP.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB02_HTTP.pdf)
+
 This lab explores the Hypertext Transfer Protocol (HTTP), focusing on request/response interactions, message formats, and web object retrieval.
 
 **Topics Covered:**
