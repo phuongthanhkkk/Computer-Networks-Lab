@@ -49,7 +49,8 @@ This lab explores the Hypertext Transfer Protocol (HTTP), focusing on request/re
 ---
 
 ## Lab 3 - DNS Protocol
-**File:** `LAB03_DNS.docx`  
+**File:** [LAB03_DNS.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB03_DNS.pdf)
+
 This lab investigates the Domain Name System (DNS), examining how hostnames are resolved to IP addresses and exploring DNS query/response messages.
 
 **Topics Covered:**
@@ -65,7 +66,8 @@ This lab investigates the Domain Name System (DNS), examining how hostnames are 
 ---
 
 ## Lab 4 - IP Protocol
-**File:** `LAB04_IP.docx`  
+**File:** [LAB04_IP.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB04_IP.pdf)
+
 This lab investigates the **IPv4 and IPv6** protocols by analyzing traceroute traffic, IP fragmentation, and the transition to IPv6.
 
 **Topics Covered:**
@@ -78,7 +80,8 @@ This lab investigates the **IPv4 and IPv6** protocols by analyzing traceroute tr
 ---
 
 ## Lab 4b - NAT
-**File:** `LAB04_NAT.docx`  
+**File:** [LAB04_NAT.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB04_NAT.pdf) 
+
 This lab examines how **Network Address Translation (NAT)** works by analyzing packet transformations at both ends of a NAT router.
 
 **Topics Covered:**
@@ -91,7 +94,8 @@ This lab examines how **Network Address Translation (NAT)** works by analyzing p
 ---
 
 ## Lab 5 - DHCP
-**File:** `LAB05_DHCP.docx`  
+**File:** [LAB05_DHCP.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB05_DHCP.pdf)
+
 This lab explores the **Dynamic Host Configuration Protocol (DHCP)** and captures the full 4-step interaction (Discover, Offer, Request, ACK).
 
 **Topics Covered:**
@@ -104,7 +108,8 @@ This lab explores the **Dynamic Host Configuration Protocol (DHCP)** and capture
 ---
 
 ## Lab 5b - ICMP Protocol
-**File:** `LAB05_ICMP.docx`  
+**File:** [LAB05_ICMP.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB05_ICMP.pdf)
+
 This lab examines the Internet Control Message Protocol (ICMP), focusing on its role in network diagnostics through Ping and Traceroute utilities.
 
 **Topics Covered:**
@@ -120,7 +125,8 @@ This lab examines the Internet Control Message Protocol (ICMP), focusing on its 
 ---
 
 ## Lab 6 - Ethernet & ARP
-**File:** `LAB06_ETHERNET&ARP.docx`  
+**File:** [LAB06_ETHERNET&ARP.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB06_ETHERNET%26ARP.pdf)
+
 This lab focuses on **Ethernet frame structure** and the **Address Resolution Protocol (ARP)**.
 
 **Topics Covered:**
@@ -133,7 +139,8 @@ This lab focuses on **Ethernet frame structure** and the **Address Resolution Pr
 ---
 
 ## Lab 7 - 802.11 WiFi
-**File:** `LAB07_802.11 WiFi.docx`  
+**File:** [LAB07_802.11 WiFi.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB07_802.11%20WiFi.pdf)
+
 This lab investigates the **802.11 wireless LAN protocol**, including beacon frames, data transfer, and association/disassociation events.
 
 **Topics Covered:**
@@ -146,7 +153,8 @@ This lab investigates the **802.11 wireless LAN protocol**, including beacon fra
 ---
 
 ## Lab 7b - TLS
-**File:** `LAB07_TLS.docx`  
+**File:** [LAB07_TLS.pdf](https://github.com/phuongthanhkkk/Computer-Networks-Lab/blob/main/LAB07_TLS.pdf)
+
 This lab examines the **Transport Layer Security (TLS)** protocol and its role in enabling secure HTTPS communication.
 
 **Topics Covered:**
