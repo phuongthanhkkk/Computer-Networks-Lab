@@ -6,9 +6,12 @@ These lab exercises were conducted as part of the *Computer Networks* course. Ea
 
 ## Table of Contents
 - [Lab 0 - Getting Started with Wireshark](#lab-0---getting-started-with-wireshark)
+- [Lab 2 - HTTP Protocol](#lab-2---http-protocol)
+- [Lab 3 - DNS Protocol](#lab-3---dns-protocol)
 - [Lab 4 - IP Protocol](#lab-4---ip-protocol)
 - [Lab 4b - NAT](#lab-4b---nat)
 - [Lab 5 - DHCP](#lab-5---dhcp)
+- [Lab 5b - ICMP Protocol](#lab-5b---icmp-protocol)
 - [Lab 6 - Ethernet & ARP](#lab-6---ethernet--arp)
 - [Lab 7 - 802.11 WiFi](#lab-7---80211-wifi)
 - [Lab 7b - TLS](#lab-7b---tls)
@@ -25,6 +28,37 @@ This introductory lab familiarizes students with the Wireshark tool, a network p
 - HTTP traffic analysis
 - Filtering and interpreting captured packets
 - Protocol stack and encapsulation understanding
+
+---
+
+## Lab 2 - HTTP Protocol
+**File:** `LAB02_HTTP.pdf`  
+This lab explores the Hypertext Transfer Protocol (HTTP), focusing on request/response interactions, message formats, and web object retrieval.
+
+**Topics Covered:**
+- HTTP GET/response basic interaction
+- HTTP version identification
+- Conditional GET and caching behavior
+- Retrieval of long documents and TCP segmentation
+- Embedded objects and parallel/serial downloading
+- HTTP authentication and Base64 encoding
+- Status codes and header analysis
+
+---
+
+## Lab 3 - DNS Protocol
+**File:** `LAB03_DNS.docx`  
+This lab investigates the Domain Name System (DNS), examining how hostnames are resolved to IP addresses and exploring DNS query/response messages.
+
+**Topics Covered:**
+- nslookup tool usage for DNS queries
+- DNS record types (A, NS, MX)
+- Authoritative vs. non-authoritative responses
+- DNS message structure (queries and responses)
+- UDP vs. TCP transport for DNS
+- Local DNS server configuration
+- DNS caching and TTL values
+- Dynamic DNS concepts and providers
 
 ---
 
@@ -64,6 +98,22 @@ This lab explores the **Dynamic Host Configuration Protocol (DHCP)** and capture
 - Transaction ID tracking
 - Parameter Request Lists
 - Client-server configuration exchanges
+
+---
+
+## Lab 5b - ICMP Protocol
+**File:** `LAB05_ICMP.docx`  
+This lab examines the Internet Control Message Protocol (ICMP), focusing on its role in network diagnostics through Ping and Traceroute utilities.
+
+**Topics Covered:**
+- ICMP echo request/reply (Ping)
+- ICMP error messages (TTL exceeded)
+- Traceroute implementation differences (Windows vs Unix)
+- IP protocol number for ICMP
+- ICMP message formats and fields
+- Round-trip time (RTT) measurement
+- Router path discovery and analysis
+- Link delay identification in traceroute
 
 ---
 
